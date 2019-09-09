@@ -1,0 +1,13 @@
+{
+  "name": "boilerplate",
+  "private": true,
+  "version": "1.0.0",
+  "description": "List of packages for various tools for projects so I can automate installs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stephen A. Ingram <stephen.a.ingram@gmail.com> (https://moolisoft.com/)",
+  "license": "MIT"
+}

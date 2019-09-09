@@ -1,0 +1,6 @@
+"html-webpack-plugin"
+"webpack"
+"webpack-bundle-analyzer"
+"webpack-cli"
+"webpack-dev-server"
+"webpack-merge"

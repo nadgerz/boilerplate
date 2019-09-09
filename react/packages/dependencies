@@ -1,0 +1,7 @@
+"@hot-loader/react-dom"
+"core-js"
+"prop-types"
+"react"
+"react-dom"
+"react-hot-loader"
+"regenerator-runtime"

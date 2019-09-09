@@ -1,0 +1,6 @@
+"@babel/plugin-proposal-class-properties"
+"@babel/plugin-syntax-dynamic-import"
+"@typescript-eslint/eslint-plugin"
+"eslint-plugin-jsx-a11y"
+"eslint-plugin-react"
+"html-webpack-plugin"
